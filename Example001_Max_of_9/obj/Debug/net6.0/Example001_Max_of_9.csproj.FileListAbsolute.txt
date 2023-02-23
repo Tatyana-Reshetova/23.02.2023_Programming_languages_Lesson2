@@ -1,0 +1,15 @@
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\bin\Debug\net6.0\Example001_Max_of_9.exe
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\bin\Debug\net6.0\Example001_Max_of_9.deps.json
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\bin\Debug\net6.0\Example001_Max_of_9.runtimeconfig.json
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\bin\Debug\net6.0\Example001_Max_of_9.dll
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\bin\Debug\net6.0\Example001_Max_of_9.pdb
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.csproj.AssemblyReference.cache
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.AssemblyInfoInputs.cache
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.AssemblyInfo.cs
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.dll
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\refint\Example001_Max_of_9.dll
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.pdb
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\Example001_Max_of_9.genruntimeconfig.cache
+C:\Users\Tanya\Desktop\Lesson_2_Functions_and_Arrays\Example001_Max_of_9\obj\Debug\net6.0\ref\Example001_Max_of_9.dll
